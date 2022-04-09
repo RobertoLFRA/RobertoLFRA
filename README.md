@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLFRA&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLFRA&theme=highcontrast)
 
 ![](https://profile-counter.glitch.me/RobertoLFRA/count.svg)
