@@ -1,7 +1,7 @@
 # Welcome to my profile! :P 👋
 Hello my name is Roberto and i am from Valencia, Spain, i am a software developer and hacking ethical
 
-Usually i use C++, Rust, C# and Javascript.😊
+Usually i use Rust, C# and swift.😊
 
 contact me here: Robertoclot@protonmail.com, Have a good day! ❤
 
