@@ -1,7 +1,7 @@
 # Welcome to my profile! 👋
 Hello my name is Roberto and i am from Valencia, Spain, i am a software developer and hacking ethical
 
-Web developer & C#/golang.😊
+C#/Rust/Python.😊
 
 Have a good day! ❤
 
