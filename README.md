@@ -1,9 +1,4 @@
 # Welcome to my profile! 👋
-Hello my name is Roberto and i am from Valencia, Spain, i am a software developer and hacking ethical
-
-C#/Rust/Python.😊
-
-Have a good day! ❤
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLFRA&theme=onedark)
 
